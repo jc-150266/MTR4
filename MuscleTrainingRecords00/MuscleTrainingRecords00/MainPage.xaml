@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:MuscleTrainingRecords00"
              x:Class="MuscleTrainingRecords00.MainPage">
 
-    <NavigationPage Title="記録" Icon="contract.png" BackgroundColor="Aquamarine">　
+    <NavigationPage Title="記録" Icon="contract.png" >　
         <!--下タブのタイトル-->
 
         <x:Arguments>
